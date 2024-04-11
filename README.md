@@ -7,11 +7,11 @@ En src/ej_1/ring.c se encuentra el primer ejercicio que tienen que resolver.
 
 Compilan haciendo:
 
-                make
+    make
 
 Ejecutan haciendo:
 
-                ./anillo <n><c><s>, 
+    ./anillo <n><c><s>, 
 
   
 donde:
@@ -27,10 +27,10 @@ En src/ej_2/shell.c se encuentra el segundo ejercicio que tienen que resolver.
 
 Compilan haciendo:
 
-                make
+    make
 
 Ejecutan haciendo:
 
-                ./ring
+    ./ring
 
         
