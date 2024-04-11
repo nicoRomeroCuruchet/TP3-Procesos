@@ -3,7 +3,7 @@
 
 # Comunicación básica entre procesos
 
-En src/ej_1/ring.c se encuentra el primer ejercicio que tienen que resolver.
+En src/ej1/ring.c se encuentra el primer ejercicio que tienen que resolver.
 
 Compilan haciendo:
 
@@ -23,7 +23,7 @@ donde:
 
 # Progamacion de un SHELL
 
-En src/ej_2/shell.c se encuentra el segundo ejercicio que tienen que resolver.
+En src/ej2/shell.c se encuentra el segundo ejercicio que tienen que resolver.
 
 Compilan haciendo:
 
