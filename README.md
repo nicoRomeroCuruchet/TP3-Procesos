@@ -21,7 +21,7 @@ donde:
     <s> es el número de proceso que inicia la comunicación
 
 
-# Progamacion de un SHELL
+# SHELL
 
 En src/ej2/shell.c se encuentra el segundo ejercicio que tienen que resolver.
 
