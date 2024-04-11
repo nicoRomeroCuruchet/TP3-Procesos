@@ -11,7 +11,7 @@ Compilan haciendo:
 
 Ejecutan haciendo:
 
-    ./anillo <n><c><s>, 
+    ./anillo <n><c><s>
 
   
 donde:
