@@ -16,9 +16,9 @@ Ejecutan haciendo:
   
 donde:
 
-<n> es la cantidad de procesos del anillo.
-<c> es el valor del mensaje inicial.
-<s> es el número de proceso que inicia la comunicación
+    <n> es la cantidad de procesos del anillo.
+    <c> es el valor del mensaje inicial.
+    <s> es el número de proceso que inicia la comunicación
 
 
 # Progamacion de un SHELL
