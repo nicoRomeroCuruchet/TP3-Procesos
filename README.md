@@ -11,7 +11,7 @@ Compilan haciendo:
 
 Ejecutan haciendo:
 
-    ./anillo <n><c><s>
+    ./ring <n><c><s>
 
   
 donde:
@@ -31,6 +31,6 @@ Compilan haciendo:
 
 Ejecutan haciendo:
 
-    ./ring
+    ./shell
 
         
